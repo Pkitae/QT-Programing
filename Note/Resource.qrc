@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Copy.bmp</file>
+        <file>Cut.bmp</file>
+        <file>New.bmp</file>
+        <file>Open.bmp</file>
+        <file>Paste.bmp</file>
+        <file>Save.bmp</file>
+        <file>redo.jpeg</file>
+        <file>undo.jpeg</file>
+        <file>../다운로드/Icons/Icons/information.png</file>
+        <file>../다운로드/Icons/Icons/exit.jpg</file>
+    </qresource>
+</RCC>
